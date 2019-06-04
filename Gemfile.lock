@@ -206,7 +206,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord
+  activerecord (>= 5.0.7.2)
   byebug
   capybara
   coffee-rails (~> 4.1.0)
